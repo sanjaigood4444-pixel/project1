@@ -1,3 +1,3 @@
 a=11
-b=21
-print(b)
+b=20
+print(a+b)
