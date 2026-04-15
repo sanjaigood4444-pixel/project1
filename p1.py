@@ -1,4 +1,4 @@
 a=11
-b=20
+b=2
 print(a+b)
 print(a)
